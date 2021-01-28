@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComunicacionVentanas</string>
+    <string name="nombre">x</string>
+    <string name="apellido">y</string>
+    <string name="ingresar">Ingresar</string>
+
+    <string name="tv_text">Lista de Actividades</string>
+</resources>
